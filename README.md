@@ -71,13 +71,4 @@ curl https://cli.nexus.xyz/ | sh
 ![image](https://github.com/GeewinC/Nexus/blob/main/928fbc14-ff6e-4ad0-932a-ba9c905a2b6f.jpeg)
 
 
-
-
-## Web : 
-
-![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
-
-## Link : https://app.nexus.xyz/
-
-
 <p align="center"# Nexus
