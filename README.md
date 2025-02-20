@@ -12,9 +12,7 @@
 
 | Server Provider        | Link              | Features |
 |------------------|----------------------------|----------------------------|
-| **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Cheap / Paypal  |
-| **PQ**      | [Link](https://pq.hosting/?from=627713)                  | Cheap / Crypto Payment |
-| **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
+| **Contabo**          | [Link]([)](https://contabo.com/en/vps/)                     | Cheap / Paypal  |
 
 # Web / Sing Up : 
 
@@ -70,7 +68,8 @@ curl https://cli.nexus.xyz/ | sh
 
 ## NEXT Enter your ID.
 
-![image](https://github.com/user-attachments/assets/eb6b9813-b590-4bef-b5e4-5b19a05f6baf)
+![image](https://github.com/GeewinC/Nexus/blob/main/928fbc14-ff6e-4ad0-932a-ba9c905a2b6f.jpeg)
+
 
 
 
